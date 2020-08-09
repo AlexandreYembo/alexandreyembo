@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on few open source projects such: Hydra, Telegram BOT API, Redis cache management.
 - 📫 How to reach me: ...
   . LinkedIn: https://www.linkedin.com/in/alexandreyembo-en/
-- 👯 I’m looking to collaborate on few open sourced projects.
+- 👯 I’m looking to collaborate on few open source projects.
   
 
 <!--
