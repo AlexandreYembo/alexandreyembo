@@ -1,6 +1,6 @@
 ### Hi there 👋 welcome to my profile
 - I am currently living and working as Software developer in Dublin, Ireland 🇮🇪
-- 🔭 Also during my free time, I develop few open source projects such: Hydra (microservice architecture - study propose), Telegram BOT API (Public transport bot message), Redis cache management (Service that manage session expiration for Redis), etc.
+- 🔭 Also during my free time, I develop few open source projects such: Hydra (microservice architecture - study proposal), Telegram BOT API (Public transport bot message), Redis cache management (Service that manage session expiration for Redis), etc.
 - 📫 How to reach me: ...
   . LinkedIn: https://www.linkedin.com/in/alexandreyembo-en/
 - 👯 I’m looking to collaborate on few open source projects.
