@@ -5,7 +5,11 @@
   . LinkedIn: https://www.linkedin.com/in/alexandreyembo-en/
 - 👯 I’m looking to collaborate on few open source projects.
   
-![Alexandre's github stats](https://github-readme-stats.vercel.app/api?username=alexandreyembo&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreyembo&layout=compact)](https://github.com/alexandreyembo/github-readme-stats)
+![Alexandre's github stats](https://github-readme-stats.vercel.app/api?username=alexandreyembo&show_icons=true&theme=dark)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreyembo&layout=compact)](https://github.com/alexandreyembo/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AlexandreYembo/alexandreyembo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
