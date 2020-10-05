@@ -5,9 +5,7 @@
   . LinkedIn: https://www.linkedin.com/in/alexandreyembo-en/
 - 👯 I’m looking to collaborate on few open source projects.
   
-![Alexandre's github stats](https://github-readme-stats.vercel.app/api?username=alexandreyembo&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreyembo&layout=compact)](https://github.com/alexandreyembo/github-readme-stats)
+![Alexandre's github stats](https://github-readme-stats.vercel.app/api?username=alexandreyembo&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreyembo&layout=compact)](https://github.com/alexandreyembo/github-readme-stats)
 
 <!--
 **AlexandreYembo/alexandreyembo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
